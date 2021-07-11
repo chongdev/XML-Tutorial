@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<productListing title="My Products">
+    <product>
+        <name>Product One</name>
+        <description>Product One id an excition new wigget thet will simplify your life.</description>
+        <cost>$19.95</cost>
+    </product>
+    <product>
+        <name>Product Two</name>
+    </product>
+</productListing>
