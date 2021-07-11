@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT products (product+)>
+<!ELEMENT product (name,description,cost)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT cost (#PCDATA)>
+<!ELEMENT product pid ID #REQUIRED >
+<!ELEMENT product lang (Java|Python) "Java">
